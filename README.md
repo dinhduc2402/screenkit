@@ -1,4 +1,4 @@
-# screenkit
+# ScreenKit Claude Code
 
 Screen1 Claude Code Kit
 
@@ -10,9 +10,6 @@ This repository is a Claude Code / Cursor workspace that bundles the `screenkit`
   - **Name**: `screenkit` (`name` field)
   - **Owner**: `Duc Nguyen <ducit.dev@gmail.com>`
   - **Description**: “Screenkit is a collection of skills, workflows, and productivity tools for screen recording and video editing.”
-  - **Version**: `1.0.1`
-  - **Source**: `https://github.com/dinhduc2402/screenkit.git`
-  - **Plugin description**: “Core skills library: TDD, debugging, collaboration patterns, and proven techniques”
 - `skills/` – local skill definitions (debugging, test‑driven development, frontend/backend/full‑stack patterns, QA, Git worktrees, webapp testing, writing skills, and more).
 - `commands/` – high‑level commands such as `brainstorm`, `write-plan`, and `execute-plan` that wrap the Superpowers skills.
 - `agents/` – specialized agents like `code-reviewer` for structured code and architecture review.
