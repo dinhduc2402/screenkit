@@ -1,0 +1,21 @@
+{
+  "name": "screenkit",
+  "description": "Screenkit is a collection of skills, workflows, and productivity tools for screen recording and video editing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Duc Nguyen",
+    "email": "ducit.dev@gmail.com"
+  },
+  "homepage": "https://github.com/dinhduc2402/screenkit",
+  "repository": "https://github.com/dinhduc2402/screenkit",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "screen-recording",
+    "video-editing",
+    "workflows",
+    "tdd",
+    "debugging",
+    "productivity"
+  ]
+}

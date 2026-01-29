@@ -40,7 +40,7 @@ Register the Screenkit marketplace:
 Then install the plugin from this marketplace:
 
 ```bash
-/plugin install screenkit@screenkit
+/plugin install screenkit@screenkit-marketplace
 ```
 
 ### Verify Installation
