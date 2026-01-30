@@ -11,7 +11,7 @@ This repository is a Claude Code / Cursor workspace that bundles the `screenkit`
   - **Owner**: `Duc Nguyen <ducit.dev@gmail.com>`
   - **Description**: “Screenkit is a collection of skills, workflows, and productivity tools for screen recording and video editing.”
 - `skills/` – local skill definitions (debugging, test‑driven development, frontend/backend/full‑stack patterns, QA, Git worktrees, webapp testing, writing skills, and more).
-- `commands/` – high‑level commands such as `brainstorm`, `write-plan`, and `execute-plan` that wrap the Superpowers skills.
+- `commands/` – high‑level commands such as `brainstorm`, `write-plan`, and `execute-plan` that wrap the screenkit skills.
 - `agents/` – specialized agents like `code-reviewer` for structured code and architecture review.
 - `hooks/` – automation hooks (for example, `session-start.sh`) used to set up the environment at key lifecycle events.
 - `settings.local.json` – workspace‑local permission settings for shell and MCP tools.
